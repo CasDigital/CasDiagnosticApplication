@@ -1,0 +1,412 @@
+﻿[
+  {
+    "DateTime": "27/10/2017 - 13:45:44",
+    "ClassificationCode": "22-04-03",
+    "Describtion": "Inverter fault"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:45",
+    "ClassificationCode": "23-04-03",
+    "Describtion": "Inverter tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:46",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "inverter not starting"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:47",
+    "ClassificationCode": "25-04-03",
+    "Describtion": "Inverter Overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:48",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:49",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:50",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:51",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:52",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:53",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:54",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:55",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:56",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:57",
+    "ClassificationCode": "24-10-02",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:58",
+    "ClassificationCode": "25-10-02",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:59",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:60",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:61",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:62",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:63",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:64",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:65",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:66",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:67",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:68",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:69",
+    "ClassificationCode": "24-10-02",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:70",
+    "ClassificationCode": "25-10-02",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:71",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:72",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:73",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:74",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "inverter not starting"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:75",
+    "ClassificationCode": "25-04-03",
+    "Describtion": "Inverter Overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:76",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:77",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:78",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:79",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:80",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:81",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:82",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:83",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:84",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:85",
+    "ClassificationCode": "24-10-02",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:86",
+    "ClassificationCode": "25-10-02",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:87",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:88",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:89",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:90",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:91",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:92",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:93",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:94",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:95",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:96",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:97",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:98",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:99",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:100",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:101",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:102",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:103",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:104",
+    "ClassificationCode": "24-10-02",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:105",
+    "ClassificationCode": "25-10-02",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:106",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:107",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:108",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:109",
+    "ClassificationCode": "24-04-03",
+    "Describtion": "inverter not starting"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:110",
+    "ClassificationCode": "25-04-03",
+    "Describtion": "Inverter Overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:111",
+    "ClassificationCode": "26-04-03",
+    "Describtion": "Overhead voltage overload"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:112",
+    "ClassificationCode": "27-04-03",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:113",
+    "ClassificationCode": "28-04-03",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:114",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:115",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:116",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:117",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:118",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:119",
+    "ClassificationCode": "23-10-02",
+    "Describtion": "Low overhead voltage"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:120",
+    "ClassificationCode": "24-10-02",
+    "Describtion": "Compressor pressure ouput low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:121",
+    "ClassificationCode": "29-04-03",
+    "Describtion": "Traction Motor tripping"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:122",
+    "ClassificationCode": "19-10-02",
+    "Describtion": "Boggie Over Current"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:123",
+    "ClassificationCode": "20-10-02",
+    "Describtion": "Low voltage cubicle trip"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:124",
+    "ClassificationCode": "21-10-02",
+    "Describtion": "MPU Battety low"
+  },
+  {
+    "DateTime": "27/10/2017 - 13:45:125",
+    "ClassificationCode": "22-10-02",
+    "Describtion": "Driver changed direction while moving"
+  }
+]
