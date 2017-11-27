@@ -14,13 +14,16 @@ import {
 //Create a generic card component that can be used across the app
 export default class Card extends Component{
 
+    static navigationOptions = {
+        drawerLabel: 'test',
+    };
     render(){
         const {navigate} = this.props.navigation;
         
         return(
 
         <TouchableOpacity 
-         style={[panelStyles.containerStyle,
+         style={[panelStyles.containderStyle,
                  panelStyles.cardstyle,
                  panelStyles.color,
                  textStyles.textPosition ]} onPress={() => navigate(this.props.screen)}>  

@@ -12,18 +12,13 @@ import {
 
 //import myNavigator from '../config/routes';
 
-import Icon from 'react-native-vector-icons/Ionicons';
 import ActionButton from 'react-native-action-button';
 
  //Making sure all that all the data is deployed to the screen. 
 export default class  StartUpScreen extends Component {
 
-    static navigationOptions = {
-        drawerLabel: 'StartUp',
-    };
-
     render() {
-    //need to figure out a way to postition the button
+//need to figure out a way to postition the button
     const {navigate} = this.props.navigation;
 
       return (

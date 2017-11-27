@@ -1,39 +1,64 @@
-
+import React, { Component } from 'react';
 import {DrawerNavigator} from 'react-navigation'
-import startUpScreenmy from '../screens/startUpScreen'
+import startUpScreen from '../screens/startUpScreen'
 import overviewScreen from '../screens/overviewScreen'
 import intelligentDashboardScreen from '../screens/intelligentDashboard'
 import subSystemOverview from  '../screens/subSystemOverviewScreen'
 import faultListScreen from '../screens/faultListScreen'
 import faultListScreenDb from '../screens/faultListScreenDb'
+import Icon from 'react-native-vector-icons/Ionicons';
 
 
 //Navigation routes for the application
 export default myNavigator = DrawerNavigator({
    
-    startUpScreenthis: {
-      initialRoute: true,
-      title: 'StartUp',
-      screen: startUpScreenmy,
+    startUpScreen: {
+      screen: startUpScreen,
+
+      navigationOptions: {
+      
+        initialRoute: true,        
+        drawerLabel: 'StartUp Screen',
+        Icon: "home"
+        //icon: <ion-icon name="home"/>,
+  
+      },
+
     },
+
     Overview: {
-      title: 'Overview',
+
       screen: overviewScreen,
+
+      navigationOptions: {
+        drawerLabel: 'Overview Screen',
+      },
+      
     },
 
     SubSystemOverview: {
-      title: 'SubSystem Overview',
-      screen: subSystemOverview
+      screen: subSystemOverview,
+
+      navigationOptions: {
+        drawerLabel: 'SubSystem Overview Screen',
+      },
     },
     
     FaultList: {
-        title: 'Fault List Screen',
         screen: faultListScreen,
+
+        navigationOptions: {
+          drawerLabel: 'Fault List Screen',
+        },
       },
 
       FaultListDb: {
-        title: 'Fault List Screen Db',
         screen: faultListScreenDb,
+
+        navigationOptions: {
+          drawerLabel: 'Fault List ScreenDb',
+        },
+
       },
 
 
