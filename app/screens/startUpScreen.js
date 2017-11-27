@@ -20,10 +20,12 @@ export default class  StartUpScreen extends Component {
 
     static navigationOptions = {
         drawerLabel: 'StartUp',
-      };
+    };
 
     render() {
-//need to figure out a way to postition the button
+    //need to figure out a way to postition the button
+    const {navigate} = this.props.navigation;
+
       return (
         <View style={{flex:1, backgroundColor: '#f3f3f3'}}>        
              <View style={[panelStyles.containerStyle,
@@ -51,7 +53,7 @@ export default class  StartUpScreen extends Component {
                  <Image  source={require('./online.png')} style = {[imageStyles.inconImageSize]}/>
             </ActionButton.Item>
             
-            <ActionButton.Item buttonColor='grey' title="Offline" onPress={() => this.props.navigation.navigate('Overview')}>
+            <ActionButton.Item buttonColor='grey' title="Offline" onPress={() => navigate('Overview')}>
                 <Image  source={require('./offline.png')} style = {[imageStyles.inconImageSize]}/>
             </ActionButton.Item>
         </ActionButton>

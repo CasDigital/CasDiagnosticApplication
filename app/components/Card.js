@@ -15,13 +15,15 @@ import {
 export default class Card extends Component{
 
     render(){
+        const {navigate} = this.props.navigation;
+        
         return(
 
         <TouchableOpacity 
          style={[panelStyles.containerStyle,
                  panelStyles.cardstyle,
                  panelStyles.color,
-                 textStyles.textPosition ]} onPress={() => this.props.navigation.navigate(this.props.screen)}>  
+                 textStyles.textPosition ]} onPress={() => navigate(this.props.screen)}>  
                 <Text style={[textStyles.cardNumber]}>{this.props.faultCount}</Text>
                 <Text style={[textStyles.cardText]}>{this.props.systemName}</Text>
         </TouchableOpacity>

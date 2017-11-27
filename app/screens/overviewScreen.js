@@ -19,12 +19,14 @@ import Toolbar from '../components/Toolbar';
 
 //Overview screen displays counts of all the system faults
 export default class  overviewScreen extends Component {
-
+ 
     static navigationOptions = {
         drawerLabel: 'Overview',
         };
 
     render() {
+
+        
       return (
         <View>
 

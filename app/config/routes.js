@@ -1,6 +1,6 @@
 
 import {DrawerNavigator} from 'react-navigation'
-import startUpScreen from '../screens/startUpScreen'
+import startUpScreenmy from '../screens/startUpScreen'
 import overviewScreen from '../screens/overviewScreen'
 import intelligentDashboardScreen from '../screens/intelligentDashboard'
 import subSystemOverview from  '../screens/subSystemOverviewScreen'
@@ -10,10 +10,11 @@ import faultListScreenDb from '../screens/faultListScreenDb'
 
 //Navigation routes for the application
 export default myNavigator = DrawerNavigator({
-    startUpScreen: {
+   
+    startUpScreenthis: {
       initialRoute: true,
       title: 'StartUp',
-      screen: startUpScreen,
+      screen: startUpScreenmy,
     },
     Overview: {
       title: 'Overview',
