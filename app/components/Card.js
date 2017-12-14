@@ -10,7 +10,6 @@ import {
      } from 'react-native';
 
 
-
 //Create a generic card component that can be used across the app
 export default class Card extends Component{
 
