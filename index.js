@@ -9,9 +9,6 @@ const reactNavigationSample = props => {
 reactNavigationSample.navigationOptions = {
     title: "Startup Screen"
   };
-   
-
-
 
 AppRegistry.registerComponent('ubuntuapp', () => myNavigator);
 

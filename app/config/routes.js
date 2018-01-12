@@ -10,20 +10,7 @@ import faultListScreenDb from '../screens/faultListScreenDb'
 
 
 //need to create the stack navigator to be added on the drawer navigator. 
-export const FeedStack = StackNavigator({
-  Feed: {
-    screen: Feed,
-    navigationOptions: {
-      title: 'Feed',
-    },
-  },
-  Details: {
-    screen: UserDetail,
-    navigationOptions: ({ navigation }) => ({
-      title: `${navigation.state.params.name.first.toUpperCase()} ${navigation.state.params.name.last.toUpperCase()}`,
-    }),
-  },
-});
+
 
 //Ensure that all the navigation routes are structured to be reconfigurable 
 export default myNavigator = DrawerNavigator({

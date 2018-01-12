@@ -48,7 +48,7 @@ export default class  StartUpScreen extends Component {
                  <Image  source={require('./online.png')} style = {[imageStyles.inconImageSize]}/>
             </ActionButton.Item>
             
-            <ActionButton.Item buttonColor='grey' title="Offline" onPress={() => navigate('Overview')}>
+            <ActionButton.Item buttonColor='grey' title="Offline" onPress={}>
                 <Image  source={require('./offline.png')} style = {[imageStyles.inconImageSize]}/>
             </ActionButton.Item>
         </ActionButton>

@@ -16,7 +16,6 @@ import faultJson from '../screens/faultsEventsList.json'
 import Toolbar from '../components/Toolbar';
 
 //make sure that all the data is send to the right pakages
-
 export default class faultListScreen extends Component {
 
     constructor(){
