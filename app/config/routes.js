@@ -21,7 +21,7 @@ export default myNavigator = DrawerNavigator({
       navigationOptions: {
       
         initialRoute: true,        
-        drawerLabel: 'StartUp Screen',
+        drawerLabel: 'StartUpScreen',
         Icon: "home"
   
       },
@@ -65,5 +65,6 @@ export default myNavigator = DrawerNavigator({
 
 
   });
+
 //Only one drawer navigation is needed per application
   
